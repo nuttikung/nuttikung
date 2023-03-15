@@ -1,16 +1,24 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100 />
+</div>
 
-<!--
-**nuttikung/nuttikung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badge">
+  <a href="https://www.linkedin.com/in/phuditc">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://dev.to/nuttikung">
+    <img src="https://img.shields.io/badge/Dev.to-black?logo=dev.to&color=white&logoColor=black&style=for-the-badge" alt="Dev.to Badge" />
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=nuttikung&style=flat-square&color=orange" alt="">
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### :man_technologist: &nbsp;About Me :
+#### Currently I'm working as Senior Frontend Developer (+Specialist :man_scientist:)
+
+- 🔭 I’m currently working on Frontend (React.js)
+- 🌱 Following Technology
+- 🤔 I'm trying to contribute some opensource project.
+- 😄 Pronouns: he/him
 -->
