@@ -13,8 +13,9 @@
 
 ### :man_technologist: &nbsp;About Me :
 #### Currently I'm working as Senior Frontend Developer (+Specialist :man_scientist:)
-
 - 🔭 I’m currently working on Frontend (React.js)
 - 🌱 Following Technology
 - 🤔 I'm trying to contribute some opensource project.
 - 😄 Pronouns: he/him
+
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nuttikung&show_icons=true&theme=radical) -->
