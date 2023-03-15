@@ -18,4 +18,3 @@
 - 🌱 Following Technology
 - 🤔 I'm trying to contribute some opensource project.
 - 😄 Pronouns: he/him
--->
