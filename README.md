@@ -3,6 +3,9 @@
   <a href="https://www.linkedin.com/in/phuditc">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
   </a>
+  <a href="https://leetcode.com/nuttikung">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fnuttikung&logo=leetcode&logoColor=yellow" alt="Leetcode Badge" />
+  </a>
   <a href="https://dev.to/nuttikung">
     <img src="https://img.shields.io/badge/Dev.to-black?logo=dev.to&color=white&logoColor=black&style=for-the-badge" alt="Dev.to Badge" />
   </a>
