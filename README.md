@@ -15,8 +15,9 @@
 
 
 ### :man_technologist: &nbsp;About Me :
-#### Currently I'm working as Senior Frontend Developer (+Specialist :man_scientist:)
+#### Currently I'm working as Lead Frontend Engineer will start new as Technical Lead soon (+Specialist :man_scientist:)
 - 🔭 I’m currently working on Frontend (React.js)
+- 🦀 Newbie rust developer
 - 🌱 Following Technology
 - 🤔 I'm trying to contribute some opensource project.
 - 😄 Pronouns: he/him
